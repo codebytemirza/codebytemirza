@@ -29,7 +29,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,tensorflow,pytorch,docker,git,github,linux,bootstrap,html,css,js,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,docker,git,github,linux,bootstrap,html,css,js,vscode,anaconda,huggingface" />
 </p>
 
 ---
