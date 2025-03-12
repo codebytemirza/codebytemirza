@@ -29,7 +29,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,streamlit,tensorflow,pytorch,docker,git,github,linux,bootstrap,html,css,js,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,tensorflow,pytorch,docker,git,github,linux,bootstrap,html,css,js,vscode,anaconda" />
 </p>
 
 ---
@@ -44,10 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebytemirza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://readmestats.venkytr.com/api?user=codebytemirza&type=streak&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 🚀 Featured Projects
@@ -58,7 +54,7 @@
 | 🧠 [Langchain Learning Repo](https://github.com/codebytemirza/LANG---Learning) | Exploring LLMs and LangChain library |
 | 📚 [Deep Learning Notes](https://github.com/codebytemirza/Deep-Learning-Theory-by-Muhmmad-Abdullah) | Theory notes on Deep Learning for beginners |
 | 🤖 [AI Mail Sender Bot](https://github.com/codebytemirza/MY-CLIENT-BOT-AI-MAIL-SENDER) | Automates email sending for client interaction |
-| 🐳 [DockByte](https://github.com/codebytemirza/DockByte) | Docker-based development environment manager |
+| 🐳 [DockByte](https://github.com/codebytemirza/DockByte) | Text Extract From the Pags and PDF |
 
 ---
 
