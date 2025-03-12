@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebytemirza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebytemirza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <hr style="border: 2px solid #F7A41D; border-radius: 5px;">
@@ -139,19 +139,9 @@
 
 <hr style="border: 2px solid #F7A41D; border-radius: 5px;">
 
-### 📊 This Week's Coding Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codebytemirza&theme=tokyonight&hide_border=true" alt="Wakatime Stats"/>
-</div>
-
-<hr style="border: 2px solid #F7A41D; border-radius: 5px;">
-
 ### ❤️ Support My Work
 <div align="center">
   <p>If you like what I do, please consider giving a ⭐ to my repositories and connect with me!</p>
-  <a href="https://www.buymeacoffee.com/codebytemirza">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
 </div>
 
 <p align="center">
