@@ -4,8 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Generative+AI+%7C+Data+Science;Python+Developer+%7C+Flask+%7C+Streamlit+%7C+Gradio;Building+Real-World+AI+Solutions;Always+Learning+%7C+Always+Creating" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebytemirza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=codebytemirza&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codebytemirza&layout=compact&show_icons=true&theme=react" alt="codebytemirza github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebytemirza&layout=compact&theme=react" alt="codebytemirza github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=codebytemirza&theme=merko" alt="codebytemirza github readme activity graph" width="60%" />
 </div>
 
 <hr style="border: 2px solid #F7A41D; border-radius: 5px;">
@@ -35,7 +41,6 @@
   <a href="mailto:abdullahcodewizard@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"></a>
   <a href="https://www.linkedin.com/in/muhammad-abdullah-ai-ml-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"></a>
   <a href="https://github.com/codebytemirza"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"></a>
-  <a href="https://twitter.com/codebytemirza"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black"></a>
 </p>
 
 <hr style="border: 2px solid #F7A41D; border-radius: 5px;">
@@ -49,18 +54,6 @@
   <h4>Web Development</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </div>
-
-<hr style="border: 2px solid #F7A41D; border-radius: 5px;">
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebytemirza&theme=nord&row=1&column=6&no-frame=true&no-bg=true" alt="Trophy" width="100%" />
-</div>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codebytemirza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebytemirza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 <hr style="border: 2px solid #F7A41D; border-radius: 5px;">
 
