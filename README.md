@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Muhammad Abdullah (@codebytemirza) 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&width=600&lines=AI+%7C+ML+%7C+Generative+AI+%7C+Data+Science;Python+Developer+%7C+Flask+%7C+Streamlit+%7C+Gradio;Building+Real+World+AI+Solutions;Always+Learning+%7C+Always+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&multiline=true&width=700&lines=AI+%7C+ML+%7C+Generative+AI+%7C+Data+Science;Python+Developer+%7C+Flask+%7C+Streamlit+%7C+Gradio;Building+Real-World+AI+Solutions;Always+Learning+%7C+Always+Creating" alt="Typing SVG" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=codebytemirza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=codebytemirza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
