@@ -10,14 +10,11 @@
   </a>
 </p>
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=codebytemirza&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codebytemirza&layout=compact&show_icons=true&theme=react" alt="codebytemirza github-readme-stats" width="48%" />
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebytemirza&layout=compact&theme=react" alt="codebytemirza github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=codebytemirza&theme=merko" alt="codebytemirza github readme activity graph" width="60%" />
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=codebytemirza&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=codebytemirza&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codebytemirza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <hr style="border: 2px solid #F7A41D; border-radius: 5px;">
@@ -186,5 +183,10 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebytemirza&style=flat-square&color=blueviolet" alt="Profile Views"/>
+
+---
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=codebytemirza&icon=0&color=0" alt="Profile Views"/></a>
+
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
