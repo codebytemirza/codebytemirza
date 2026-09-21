@@ -1,8 +1,14 @@
 <h1 align="center">👋 Hi there! I'm Muhammad Abdullah (@codebytemirza) 🚀</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Generative+AI+%7C+Data+Science;Python+Developer+%7C+Flask+%7C+Streamlit+%7C+Gradio;Building+Real-World+AI+Solutions;Always+Learning+%7C+Always+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Co-Founder+%26+CTO+at+ASAR+Global;AI+%7C+ML+%7C+Generative+AI+%7C+Data+Engineering;LangChain+%7C+LangGraph+%7C+Computer+Vision+%7C+AI+Agents;Building+Real-World+AI+Solutions+from+Lahore%2C+Pakistan" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-ai-ml-developer/">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQFuUd2VOtIzlw/profile-displaybackgroundimage-shrink_350_1400/B4DaBDAyiMKgAU-/0/1787830675934?e=1791417600&v=beta&t=1IqjjRLcamdmT4gbWiLSPOBJpX5ENAvftFKiE4p7tws" width="100%" alt="banner"/>
+  </a>
+</p>
 
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=codebytemirza&theme=react" width="51%" />
@@ -21,11 +27,13 @@
   <tr>
     <td>
       <ul>
-        <li>🧠 Passionate about <b>AI, Machine Learning, and Generative AI</b></li>
-        <li>🎓 Studying <b>Computer Science</b> at <i>Superior University (Gold Campus)</i></li>
+        <li>🚀 <b>Co-Founder & CTO</b> at <a href="https://github.com/codebytemirza"><b>ASAR Global</b></a> — a Lahore-based enterprise technology & compliance consultancy serving MEA and GCC markets (ISO advisory, AI automation, data engineering, corporate training)</li>
+        <li>🧠 Hands-on across <b>AI/ML engineering, product ownership, and client delivery</b> — from model training to shipping full-stack systems</li>
+        <li>🔭 Currently building: <b>LottoGraphs</b> (lottery analytics SaaS), an <b>AI triage assistant</b> for GCC/MEA B2B clients, a <b>computer-vision system for textile defect detection</b>, and <b>CafeFlow</b> — a local-first restaurant POS/ordering platform</li>
+        <li>🛠️ Deep interest in <b>computer vision, biometric systems, and AI agents</b> (LangChain/LangGraph, WhatsApp automation, n8n workflows)</li>
+        <li>📍 Based in <b>Lahore, Pakistan</b></li>
         <li>🤝 Open to collaborating on <b>ML, Data Science & AI</b> projects</li>
         <li>🌱 Constantly learning and applying new technologies</li>
-        <li>🛠️ Building impactful solutions using <b>Python</b>, <b>ML</b>, and <b>APIs</b></li>
       </ul>
     </td>
     <td align="center">
@@ -48,7 +56,14 @@
 ### 🛠️ Tech Stack
 <div align="center">
   <h4>Languages & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,flask,django" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,flask,django,nextjs" />
+  <h4>AI / Agents / Data</h4>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
   <h4>Tools & Technologies</h4>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,anaconda,huggingface" />
   <h4>Web Development</h4>
@@ -64,6 +79,26 @@
       <th>Project</th>
       <th>Description</th>
       <th>Tech Stack</th>
+    </tr>
+    <tr>
+      <td>📊 <b>LottoGraphs</b></td>
+      <td>Lottery analytics SaaS platform (v4.0) — FAQ agent + premium lottery agent architecture</td>
+      <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td>🩺 <b>AI Triage Assistant</b></td>
+      <td>Voice-driven triage assistant for GCC/MEA B2B clients</td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LiveKit-FF5A5F?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td>🧵 <b>ASAR Vision System</b></td>
+      <td>Computer vision for textile/fabric defect detection & loom monitoring</td>
+      <td><img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td>☕ <b>CafeFlow</b></td>
+      <td>Local-first restaurant POS/ordering platform with QR ordering & offline sync</td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pywa-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></td>
     </tr>
     <tr>
       <td>🔥 <a href="https://github.com/codebytemirza/XAUUSD_TRADING_ASISTENT_AI">XAUUSD Trading Assistant AI</a></td>
@@ -87,7 +122,7 @@
     </tr>
     <tr>
       <td>🐳 <a href="https://github.com/codebytemirza/DockByte">DockByte</a></td>
-      <td>Text Extract From the Pages and PDF</td>
+      <td>Text extraction from web pages and PDFs</td>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></td>
     </tr>
   </table>
@@ -121,7 +156,14 @@
 
 <hr style="border: 2px solid #F7A41D; border-radius: 5px;">
 
-### ⚡ Fun Fact  
+### 📖 Outside of Code
+<div align="center">
+  <p>Urdu poetry & classical literature enthusiast 📜 &nbsp;|&nbsp; Fitness & gym training 💪</p>
+</div>
+
+<hr style="border: 2px solid #F7A41D; border-radius: 5px;">
+
+### ⚡ Fun Fact
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
   <blockquote>
