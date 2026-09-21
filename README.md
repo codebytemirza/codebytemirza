@@ -19,6 +19,31 @@
 
 <hr style="border: 2px solid #F7A41D; border-radius: 5px;">
 
+### 📈 Live Activity (via OSSInsight)
+<div align="center">
+  <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=145491695&image_size=auto" />
+</div>
+
+<p align="center"><sub>Want repo-specific widgets (star history, activity trends, PR lifecycle, etc.)? Grab the embed URL for any of your repos from the <a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">OSSInsight widget builder</a> and drop it in here.</sub></p>
+
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history?repo_id=947176840" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=947176840&image_size=auto&color_scheme=dark" width="721" height="auto">
+      <img alt="Star History of codebytemirza/XAUUSD_TRADING_ASISTENT_AI" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=947176840&image_size=auto&color_scheme=light" width="721" height="auto">
+    </picture>
+  </a>
+  <br/>
+  <a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=947176840&activity=stars" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=947176840&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
+      <img alt="Star Geographical Distribution of codebytemirza/XAUUSD_TRADING_ASISTENT_AI" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=947176840&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
+    </picture>
+  </a>
+</div>
+
+<hr style="border: 2px solid #F7A41D; border-radius: 5px;">
+
 ### ✨ About Me
 <table align="center">
   <tr>
